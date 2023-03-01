@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title></title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" type="text/css" media="all" />
+    </head>
+    <body>
+        <section class="text-center">
+            <div>
+                <h1 style="  " >
+                    Iniciar seción en 
+                </h1>
+                <h1>
+                    Facebook
+                </h1>
+                <input class="form-control graybutton pastilla rowned-pill fw-bold" placeholder="Correo electronico" type="text/submit/hidden/button/image" name="" id="" value="" />
+                <input class="form-control graybutton pastilla rowned-pill fw-bold mt-2 " placeholder="Contraseña" type="text/submit/hidden/button/image" name="" id="" value="" />
+                     <div class="">
+                        <button class="form-control btn btn-primary mt-3" type="submit">
+                            Iniciar
+                   </div>
+                      <p class="mt-2">
+                         <a href="https://www.google.com.gt/url?sa=t&source=web&rct=j&url=https://m.facebook.com/login/identify%3Flocale%3Des_LA%26_rdr&ved=2ahUKEwjPz8vq1bD9AhWrTDABHWqeCwsQFnoECBAQAQ&usg=AOvVaw2-0aU8ipR647xmWcyI04EN">¿olvidate tu contraseña?</a>
+                      </p>
+                   <div>
+                       <p class="mt-2">
+                           ¿no tienes una cuenta? <a href="https://www.google.com.gt/url?sa=t&source=web&rct=j&url=https://m.facebook.com/reg/%3Flocale%3Des_LA%26_rdr&ved=2ahUKEwjv9bWh06_9AhX3QzABHeimByAQFnoECAoQAQ&usg=AOvVaw1l1-aqsx5HZpabF7cXhjOE">Regitrate</a>
+                       </p>
+                   </div>
+            </div>
+        </section>
+    </body>
+</html>
